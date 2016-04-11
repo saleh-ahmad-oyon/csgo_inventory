@@ -83,15 +83,15 @@
                 <ul>
                     <li><a href="<?php echo base_url('') ?>"><span>Pistols</span></a>
                         <ul class="nav-image">
-                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_USP-S"><img src="<?php echo base_url('') ?>icons/usp-s.png" alt="StatTrak USP-S"/>USP-S</a></li>
-                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_P2000"><img src="<?php echo base_url('') ?>icons/p2000.png" alt="StatTrak P2000"/>P2000</a></li>
-                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_Glock-18"><img src="<?php echo base_url('') ?>icons/glock-18.png" alt="StatTrak Glock-18"/>Glock-18</a></li>
-                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_Dual-Berettas"><img src="<?php echo base_url('') ?>icons/dual berettas.png" alt="StatTrak Dual Berettas"/>Dual Berettas</a></li>
-                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_Five-Seven"><img src="<?php echo base_url('') ?>icons/five-seven.png" alt="StatTrak Five-Seven"/>Five-Seven</a></li>
-                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_cz-75"><img src="<?php echo base_url('') ?>icons/cz75-auto.png" alt="StatTrak CZ75-Auto"/>CZ75-Auto</a></li>
-                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_Tec-9"><img src="<?php echo base_url('') ?>icons/tec-9.png" alt="StatTrak Tec-9"/>Tec-9</a></li>
-                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_P250"><img src="<?php echo base_url('') ?>icons/p250.png" alt="StatTrak P250"/>P250</a></li>
-                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_desert-eagle"><img src="<?php echo base_url('') ?>icons/desert eagle.png" alt="StatTrak Desert Eagle"/>Desert Eagle</a></li>
+                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_USP-S"><img src="<?php echo base_url('assets/images/icons/usp-s.png') ?>" alt="StatTrak USP-S"/>USP-S</a></li>
+                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_P2000"><img src="<?php echo base_url('assets/images/icons/p2000.png') ?>" alt="StatTrak P2000"/>P2000</a></li>
+                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_Glock-18"><img src="<?php echo base_url('assets/images/icons/glock-18.png') ?>" alt="StatTrak Glock-18"/>Glock-18</a></li>
+                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_Dual-Berettas"><img src="<?php echo base_url('assets/images/icons/dual berettas.png') ?>" alt="StatTrak Dual Berettas"/>Dual Berettas</a></li>
+                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_Five-Seven"><img src="<?php echo base_url('assets/images/icons/five-seven.png') ?>" alt="StatTrak Five-Seven"/>Five-Seven</a></li>
+                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_cz-75"><img src="<?php echo base_url('assets/images/icons/cz75-auto.png') ?>" alt="StatTrak CZ75-Auto"/>CZ75-Auto</a></li>
+                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_Tec-9"><img src="<?php echo base_url('assets/images/icons/tec-9.png') ?>" alt="StatTrak Tec-9"/>Tec-9</a></li>
+                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_P250"><img src="<?php echo base_url('assets/images/icons/p250.png') ?>" alt="StatTrak P250"/>P250</a></li>
+                            <li><a href="<?php echo base_url('') ?>StatTrak/Pistol/stat_desert-eagle"><img src="<?php echo base_url('assets/images/icons/desert eagle.png') ?>" alt="StatTrak Desert Eagle"/>Desert Eagle</a></li>
                         </ul>
                     </li>
                     <li><a href="<?php echo base_url('') ?>#"><span>Rifles</span></a>
