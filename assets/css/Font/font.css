@@ -1,0 +1,201 @@
+/* Navbar Font */
+@font-face {
+  font-family: 'Army weapons tfb';
+  src: url('Army weapons tfb.ttf') format('truetype');
+}
+
+.army-weapons{
+	position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Army weapons tfb';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    font-size: 15px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.army-weapons-pistol:before{
+	content: "S";
+}
+
+.army-weapons-rifle:before{
+	content: "W";
+}
+
+.army-weapons-smg:before{
+	content: "g";
+}
+
+.army-weapons-heavy:before{
+	content: "p";
+}
+
+/*------------------------------icomoon-----------------------*/
+@font-face {
+  font-family: 'icomoon';
+  src: url('icomoon.ttf') format('truetype');
+}
+
+.icomoon{
+	position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'icomoon';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    font-size: 15px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icomoon-contact:before {
+	content: "\e005";
+}
+/*----------------icomoon2-------------------------------------*/
+@font-face {
+  font-family: 'icomoon2';
+  src: url('IcoMoon-Free.ttf') format('truetype');
+}
+
+.icomoon2{
+	position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'icomoon2';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    font-size: 15px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icomoon2-home:before {
+	content: "\e900";
+}
+
+.icomoon2-headphones:before {
+	content: "\e910";
+}
+
+.icomoon2-location:before {
+	content: "\e948";
+}
+
+.icomoon2-mobile:before {
+	content: "\e958";
+}
+.icomoon2-key:before {
+	content: "\e98d";
+}
+
+.icomoon2-knife:before {
+	content: "\e907";
+}
+
+.icomoon2-phone:before {
+	content: "\e942";
+}
+
+.icomoon2-user-tie:before {
+	content: "\e976";
+}
+
+.input-group-addon .icomoon2{
+	font-size: 11px;
+}
+
+
+/*-------------------------------------------------Logo------------------------------------------------------*/
+@font-face {
+  font-family: 'solgas';
+  src: url('solgas.ttf') format('truetype');
+}
+
+.solgas{
+	position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'solgas';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    font-size: 15px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.solgas-lonely:before{
+	content: "L";
+}
+
+/*-------------------------------Login Button With Logo------------------------------------*/
+.btn-custom{
+	position:relative;
+	padding-left:44px;
+	text-align:left;
+	white-space:nowrap;
+	/*overflow:hidden;*/
+	/*text-overflow:ellipsis*/
+}
+.btn-custom>:first-child{
+	position:absolute;
+	left:0;
+	top:0;
+	bottom:0;
+	width:36px;
+	line-height:34px;
+	font-size:1.5em;
+	text-align:center;
+	border-right:1px solid rgba(0,0,0,0.2)
+}
+
+.btn-custom.btn-lg{padding-left:61px}.btn-custom.btn-lg>:first-child{line-height:45px;width:45px;font-size:1.8em}
+.btn-custom.btn-sm{padding-left:38px}.btn-custom.btn-sm>:first-child{line-height:31px;width:28px;font-size:1.4em}
+.btn-custom.btn-xs{padding-left:30px}.btn-custom.btn-xs>:first-child{line-height:20px;width:20px;font-size:1.2em}
+
+#log-login .btn-custom{
+	padding-left: 43%;
+}
+
+
+.btn-lonely{color:#fff;background-color:#CE161D;;border-color:rgba(0,0,0,0.2)}
+.btn-lonely:hover,.btn-lonely:focus,.btn-lonely:active,.btn-lonely.active,.open>.dropdown-toggle.btn-lonely{
+	color:#fff;
+	background-color:#c2141d;
+	border-color:rgba(0,0,0,0.2);
+}
+.btn-lonely:active,.btn-lonely.active,.open>.dropdown-toggle.btn-lonely{
+	background-image:none
+}
+.btn-lonely.disabled,.btn-lonely[disabled],fieldset[disabled] .btn-lonely,.btn-lonely.disabled:hover,.btn-lonely[disabled]:hover,fieldset[disabled] .btn-lonely:hover,.btn-lonely.disabled:focus,.btn-lonely[disabled]:focus,fieldset[disabled] .btn-lonely:focus,.btn-lonely.disabled:active,.btn-lonely[disabled]:active,fieldset[disabled] .btn-lonely:active,.btn-lonely.disabled.active,.btn-lonely[disabled].active,fieldset[disabled] .btn-lonely.active{
+	background-color:#d87a68;border-color:rgba(0,0,0,0.2)
+}
+.btn-lonely .badge{
+	color:#d87a68;background-color:#fff
+}
+
+/*----------------------*/
+.btn-log-lonely{color:#fff;background-color:#2672ec;border-color:rgba(0,0,0,0.2)}.btn-log-lonely:hover,.btn-log-lonely:focus,.btn-log-lonely:active,.btn-log-lonely.active,.open>.dropdown-toggle.btn-log-lonely{color:#fff;background-color:#125acd;border-color:rgba(0,0,0,0.2)}
+.btn-log-lonely:active,.btn-log-lonely.active,.open>.dropdown-toggle.btn-log-lonely{background-image:none}
+.btn-log-lonely.disabled,.btn-log-lonely[disabled],fieldset[disabled] .btn-log-lonely,.btn-log-lonely.disabled:hover,.btn-log-lonely[disabled]:hover,fieldset[disabled] .btn-log-lonely:hover,.btn-log-lonely.disabled:focus,.btn-log-lonely[disabled]:focus,fieldset[disabled] .btn-log-lonely:focus,.btn-log-lonely.disabled:active,.btn-log-lonely[disabled]:active,fieldset[disabled] .btn-log-lonely:active,.btn-log-lonely.disabled.active,.btn-log-lonely[disabled].active,fieldset[disabled] .btn-log-lonely.active{background-color:#2672ec;border-color:rgba(0,0,0,0.2)}
+.btn-log-lonely .badge{color:#2672ec;background-color:#fff}
+/*-----------------------------*/
+
+@media screen and (max-width: 974px) {
+	#log-login .btn-custom{
+		padding-left: 46%;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.sign .btn-custom.btn-sm{padding-left:23px;font-size: 9px;}
+	.sign .btn-custom.btn-sm>:first-child{line-height:24px;width:21px;font-size:1.4em}
+	#log-login .btn-custom{
+		padding-left: 43%;
+	}
+}

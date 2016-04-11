@@ -1,0 +1,1095 @@
+{
+	"rifle":[
+	{
+		"ak47":[
+				{
+					"skin":"Safari Mesh",
+					"exterior":"Minimal Wear",
+					"float":"0.12689728",
+					"pic":"assets/images/Rifle/ak-47/Safari Mesh.png",
+					"alternatePic":"Safari Mesh",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AK-47%20%7C%20Safari%20Mesh%20(Minimal%20Wear)",
+					"grade":"Industrial Grade Rifle",
+					"collectionLink":"other_collections/dust2",
+					"collection":"The Dust 2 Collection"
+				},
+				{
+					"skin":"Safari Mesh",
+					"exterior":"Minimal Wear",
+					"float":"0.12001464",
+					"pic":"assets/images/Rifle/ak-47/Safari Mesh.png",
+					"alternatePic":"Safari Mesh",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AK-47%20%7C%20Safari%20Mesh%20(Minimal%20Wear)",
+					"grade":"Industrial Grade Rifle",
+					"collectionLink":"other_collections/dust2",
+					"collection":"The Dust 2 Collection"
+				},
+				{
+					"skin":"Predator",
+					"exterior":"Minimal Wear",
+					"float":"0.14141080",
+					"pic":"assets/images/Rifle/ak-47/Predator MW.png",
+					"alternatePic":"Predator",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AK-47%20%7C%20Predator%20(Minimal%20Wear)",
+					"grade":"Industrial Grade Rifle",
+					"collectionLink":"other_collections/dust",
+					"collection":"The Dust Collection"
+				},
+				{
+					"skin":"Predator",
+					"exterior":"Field-Tested",
+					"float":"0.28368640",
+					"pic":"assets/images/Rifle/ak-47/Predator FT.png",
+					"alternatePic":"Predator",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AK-47%20%7C%20Predator%20(Field-Tested)",
+					"grade":"Industrial Grade Rifle",
+					"collectionLink":"other_collections/dust",
+					"collection":"The Dust Collection"
+				},
+				{
+					"skin":"Jungle Spray",
+					"exterior":"Field-Tested",
+					"float":"0.28421342",
+					"pic":"assets/images/Rifle/ak-47/Jungle Spray.png",
+					"alternatePic":"Jungle Spray",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AK-47%20%7C%20Jungle%20Spray%20(Field-Tested)",
+					"grade":"Industrial Grade Rifle",
+					"collectionLink":"other_collections/aztec",
+					"collection":"The Aztec Collection"
+				},
+				{
+					"skin":"Blue Laminate",
+					"exterior":"Minimal Wear",
+					"float":"0.08627190",
+					"pic":"assets/images/Rifle/ak-47/Blue Laminate MW.png",
+					"alternatePic":"Blue Laminate",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AK-47%20%7C%20Blue%20Laminate%20(Minimal%20Wear)",
+					"grade":"Restricted Rifle",
+					"collectionLink":"Cases/eSports_2013_Winter",
+					"collection":"The eSports 2013 Winter Collection"
+				},
+				{
+					"skin":"StatTrak Blue Laminate",
+					"exterior":"Field-Tested",
+					"float":"0.28429925",
+					"pic":"assets/images/Rifle/ak-47/Blue Laminate FT.png",
+					"alternatePic":"StatTrak Blue Laminate",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AK-47%20%7C%20Blue%20Laminate%20(Field-Tested)",
+					"grade":"StatTrak Restricted Rifle",
+					"collectionLink":"Cases/eSports_2013_Winter",
+					"collection":"The eSports 2013 Winter Collection"
+				},
+				{
+					"skin":"Red Laminate",
+					"exterior":"Field-Tested",
+					"float":"0.29642081",
+					"pic":"assets/images/Rifle/ak-47/red laminate.png",
+					"alternatePic":"Red Laminate",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AK-47%20%7C%20Red%20Laminate%20(Field-Tested)",
+					"grade":"Classified Rifle",
+					"collectionLink":"Cases/eSports_2013",
+					"collection":"The eSports 2013 Collection"
+				},
+				{
+					"skin":"Black Laminate",
+					"exterior":"Minimal Wear",
+					"float":"0.13517927",
+					"pic":"assets/images/Rifle/ak-47/Black Laminate.png",
+					"alternatePic":"Black Laminate",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AK-47%20%7C%20Black%20Laminate%20(Minimal%20Wear)",
+					"grade":"Mil-Spec Grade Rifle",
+					"collectionLink":"other_collections/vertigo",
+					"collection":"The Vertigo Collection"
+				},
+				{
+					"skin":"Case Hardened",
+					"exterior":"Battle-Scarred",
+					"float":"0.56544089",
+					"pic":"assets/images/Rifle/ak-47/Case Hardened.png",
+					"alternatePic":"Case Hardened",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AK-47%20%7C%20Case%20Hardened%20(Battle-Scarred)",
+					"grade":"Classified Rifle",
+					"collectionLink":"Cases/case1",
+					"collection":"The Arms Deal Collection"
+				},
+				{
+					"skin":"Emerald Pinstripe",
+					"exterior":"Field-Tested",
+					"float":"0.30630353",
+					"pic":"assets/images/Rifle/ak-47/Emerald Pinstripe.png",
+					"alternatePic":"Emerald Pinstripe",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AK-47%20%7C%20Emerald%20Pinstripe%20(Field-Tested)",
+					"grade":"Restricted Rifle",
+					"collectionLink":"other_collections/bank",
+					"collection":"The Bank Collection"
+				},
+				{
+					"skin":"Redline",
+					"exterior":"Field-Tested",
+					"float":"0.18331447",
+					"pic":"assets/images/Rifle/ak-47/redline FT.png",
+					"alternatePic":"Redline",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AK-47%20%7C%20Redline%20(Field-Tested)",
+					"grade":"Classified Rifle",
+					"collectionLink":"Cases/Operation_Phoenix",
+					"collection":"The Phoenix Collection"
+				},
+				{
+					"skin":"Redline",
+					"exterior":"Well-Worn",
+					"float":"0.40042418",
+					"pic":"assets/images/Rifle/ak-47/redline WW.png",
+					"alternatePic":"Redline",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AK-47%20%7C%20Redline%20(Well-Worn)",
+					"grade":"Classified Rifle",
+					"collectionLink":"Cases/Operation_Phoenix",
+					"collection":"The Phoenix Collection"
+				},
+				{
+					"skin":"Cartel",
+					"exterior":"Field-Tested",
+					"float":"0.16634288",
+					"pic":"assets/images/Rifle/ak-47/cartel.png",
+					"alternatePic":"Cartel",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AK-47%20%7C%20Cartel%20(Field-Tested)",
+					"grade":"Classified Rifle",
+					"collectionLink":"Cases/Chroma",
+					"collection":"The Chroma Collection"
+				},
+				{
+					"skin":"Elite Build",
+					"exterior":"Field-Tested",
+					"float":"0.29126608",
+					"pic":"assets/images/Rifle/ak-47/Elite Build.png",
+					"alternatePic":"Elite Build",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AK-47%20%7C%20Elite%20Build%20(Field-Tested)",
+					"grade":"Mil-Spec Grade Rifle",
+					"collectionLink":"Cases/Chroma2",
+					"collection":"The Chroma 2 Collection"
+				}
+		],
+		"m4a1":[
+				{
+					"skin":"Boreal Forest",
+					"exterior":"Minimal Wear",
+					"float":"0.14628600",
+					"pic":"assets/images/Rifle/m4a1/Boreal Forest.png",
+					"alternatePic":"Boreal Forest",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Boreal%20Forest%20(Minimal%20Wear)",
+					"grade":"Industrial Grade Rifle",
+					"collectionLink":"other_collections/italy",
+					"collection":"The Italy Collection"
+				},
+				{
+					"skin":"Bright Water",
+					"exterior":"Minimal Wear",
+					"float":"0.14077869",
+					"pic":"assets/images/Rifle/m4a1/Bright Water.png",
+					"alternatePic":"Bright Water",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Bright%20Water%20(Minimal%20Wear)",
+					"grade":"Restricted Rifle",
+					"collectionLink":"Cases/Operation_Bravo",
+					"collection":"The Bravo Collection"
+				},
+				{
+					"skin":"Dark Water",
+					"exterior":"Field-Tested",
+					"float":"0.15849790",
+					"pic":"assets/images/Rifle/m4a1/Dark Water.png",
+					"alternatePic":"Dark Water",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Dark%20Water%20(Field-Tested)",
+					"grade":"Restricted Rifle",
+					"collectionLink":"Cases/case1",
+					"collection":"The Arms Deal Collection"
+				},
+				{
+					"skin":"VariCamo",
+					"exterior":"Minimal Wear",
+					"float":"0.08898127",
+					"pic":"assets/images/Rifle/m4a1/VariCamo MW.png",
+					"alternatePic":"VariCamo",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20VariCamo%20(Minimal%20Wear)",
+					"grade":"Mil-Spec Grade Rifle",
+					"collectionLink":"other_collections/dust2",
+					"collection":"The Dust 2 Collection"
+				},
+				{
+					"skin":"VariCamo",
+					"exterior":"Field-Tested",
+					"float":"0.23998894",
+					"pic":"assets/images/Rifle/m4a1/VariCamo FT.png",
+					"alternatePic":"VariCamo",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20VariCamo%20(Field-Tested)",
+					"grade":"Mil-Spec Grade Rifle",
+					"collectionLink":"other_collections/dust2",
+					"collection":"The Dust 2 Collection"
+				},
+				{
+					"skin":"Blood Tiger",
+					"exterior":"Factory New",
+					"float":"0.05831917",
+					"pic":"assets/images/Rifle/m4a1/Blood Tiger.png",
+					"alternatePic":"Blood Tiger",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Blood%20Tiger%20(Factory%20New)",
+					"grade":"Mil-Spec Grade Rifle",
+					"collectionLink":"Cases/case2",
+					"collection":"The Arms Deal 2 Collection"
+				},
+				{
+					"skin":"Nitro",
+					"exterior":"Field-Tested",
+					"float":"0.20358942",
+					"pic":"assets/images/Rifle/m4a1/Nitro.png",
+					"alternatePic":"Nitro",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Nitro%20(Field-Tested)",
+					"grade":"Restricted Rifle",
+					"collectionLink":"other_collections/safehouse",
+					"collection":"The Safehouse Collection"
+				},
+				{
+					"skin":"Nitro",
+					"exterior":"Field-Tested",
+					"float":"0.35975936",
+					"pic":"assets/images/Rifle/m4a1/Nitro.png",
+					"alternatePic":"Nitro",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Nitro%20(Field-Tested)",
+					"grade":"Restricted Rifle",
+					"collectionLink":"other_collections/safehouse",
+					"collection":"The Safehouse Collection"
+				},
+				{
+					"skin":"Guardian",
+					"exterior":"Minimal Wear",
+					"float":"0.09757155",
+					"pic":"assets/images/Rifle/m4a1/Guardian.png",
+					"alternatePic":"Guardian",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Guardian%20(Minimal%20Wear)",
+					"grade":"Classified Rifle",
+					"collectionLink":"Cases/Winter_Offensive",
+					"collection":"The Winter Offensive Collection"
+				},
+				{
+					"skin":"Atomic Alloy",
+					"exterior":"Field-Tested",
+					"float":"0.15796915",
+					"pic":"assets/images/Rifle/m4a1/Atomic Alloy.png",
+					"alternatePic":"Atomic Alloy",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Atomic%20Alloy%20(Field-Tested)",
+					"grade":"Classified Rifle",
+					"collectionLink":"Cases/Huntsman",
+					"collection":"The Huntsman Collection"
+				},
+				{
+					"skin":"StatTrak Basilisk",
+					"exterior":"Minimal Wear",
+					"float":"0.09553486",
+					"pic":"assets/images/Rifle/m4a1/Basilisk.png",
+					"alternatePic":"StatTrak Basilisk",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A1-S%20%7C%20Basilisk%20(Minimal%20Wear)",
+					"grade":"StatTrak Restricted Rifle",
+					"collectionLink":"Cases/Operation_Vanguard",
+					"collection":"The Vanguard Collection"
+				}
+		],
+		"m4a4":[
+				{
+					"skin":"Tornado",
+					"exterior":"Field-Tested",
+					"float":"0.26950306",
+					"pic":"assets/images/Rifle/m4a4/Tornado.png",
+					"alternatePic":"Tornado",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A4%20%7C%20Tornado%20(Field-Tested)",
+					"grade":"Industrial Grade Rifle",
+					"collectionLink":"other_collections/inferno",
+					"collection":"The Inferno Collection"
+				},
+				{
+					"skin":"Desert Storm",
+					"exterior":"Minimal Wear",
+					"float":"0.14718245",
+					"pic":"assets/images/Rifle/m4a4/Desert Storm.png",
+					"alternatePic":"Desert Storm",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A4%20%7C%20Desert%20Storm%20(Minimal%20Wear)",
+					"grade":"Industrial Grade Rifle",
+					"collectionLink":"other_collections/dust",
+					"collection":"The Dust Collection"
+				},
+				{
+					"skin":"Radiation Hazard",
+					"exterior":"Field-Tested",
+					"float":"0.16913694",
+					"pic":"assets/images/Rifle/m4a4/Radiation Hazard.png",
+					"alternatePic":"Radiation Hazard",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A4%20%7C%20Radiation%20Hazard%20(Field-Tested)",
+					"grade":"Mil-Spec Grade Rifle",
+					"collectionLink":"other_collections/nuke",
+					"collection":"The Nuke Collection"
+				},
+				{
+					"skin":"Urban DDPAT",
+					"exterior":"Minimal Wear",
+					"float":"0.14594853",
+					"pic":"assets/images/Rifle/m4a4/Urban DDPAT.png",
+					"alternatePic":"Urban DDPAT",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A4%20%7C%20Urban%20DDPAT%20(Minimal%20Wear)",
+					"grade":"Industrial Grade Rifle",
+					"collectionLink":"other_collections/train",
+					"collection":"The Train Collection"
+				},
+				{
+					"skin":"Faded Zebra",
+					"exterior":"Minimal Wear",
+					"float":"0.13141461",
+					"pic":"assets/images/Rifle/m4a4/Faded Zebra.png",
+					"alternatePic":"Faded Zebra",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A4%20%7C%20Faded%20Zebra%20(Minimal%20Wear)",
+					"grade":"Mil-Spec Grade Rifle",
+					"collectionLink":"Cases/eSports_2013",
+					"collection":"The eSports 2013 Collection"
+				},
+				{
+					"skin":"X-Ray",
+					"exterior":"Minimal Wear",
+					"float":"0.10965205",
+					"pic":"assets/images/Rifle/m4a4/x ray.png",
+					"alternatePic":"X-Ray",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A4%20%7C%20X-Ray%20(Minimal%20Wear)",
+					"grade":"Covert Rifle",
+					"collectionLink":"Cases/eSports_2013_Winter",
+					"collection":"The eSports 2013 Winter Collection"
+				},
+				{
+					"skin":"StatTrak Zirka",
+					"exterior":"Field-Tested",
+					"float":"0.21523520",
+					"pic":"assets/images/Rifle/m4a4/Zirka FT.png",
+					"alternatePic":"StatTrak Zirka",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A4%20%7C%20Zirka%20(Field-Tested)",
+					"grade":"StatTrak Restricted Rifle",
+					"collectionLink":"Cases/Operation_Bravo",
+					"collection":"The Bravo Collection"
+				},
+				{
+					"skin":"Zirka",
+					"exterior":"Minimal Wear",
+					"float":"0.09159765",
+					"pic":"assets/images/Rifle/m4a4/Zirka MW.png",
+					"alternatePic":"Zirka",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A4%20%7C%20Zirka%20(Minimal%20Wear)",
+					"grade":"Restricted Rifle",
+					"collectionLink":"Cases/Operation_Bravo",
+					"collection":"The Bravo Collection"
+				},
+				{
+					"skin":"Jungle Tiger",
+					"exterior":"Minimal Wear",
+					"float":"0.12182348",
+					"pic":"assets/images/Rifle/m4a4/Jungle Tiger.png",
+					"alternatePic":"Jungle Tiger",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A4%20%7C%20Jungle%20Tiger%20(Minimal%20Wear)",
+					"grade":"Industrial Grade Rifle",
+					"collectionLink":"other_collections/aztec",
+					"collection":"The Aztec Collection"
+				},
+				{
+					"skin":"Griffin",
+					"exterior":"Minimal Wear",
+					"float":"0.10689421",
+					"pic":"assets/images/Rifle/m4a4/Griffin.png",
+					"alternatePic":"Griffin",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A4%20%7C%20Griffin%20(Minimal%20Wear)",
+					"grade":"Restricted Rifle",
+					"collectionLink":"Cases/Operation_Vanguard",
+					"collection":"The Vanguard Collection"
+				},
+				{
+					"skin":"Bullet Rain",
+					"exterior":"Minimal Wear",
+					"float":"0.07686096",
+					"pic":"assets/images/Rifle/m4a4/Bullet Rain.png",
+					"alternatePic":"Bullet Rain",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A4%20%7C%20Bullet%20Rain%20(Minimal%20Wear)",
+					"grade":"Covert Rifle",
+					"collectionLink":"Cases/eSports_2014_Summer",
+					"collection":"The eSports 2014 Summer Collection"
+				},
+				{
+					"skin":"Desert-Strike",
+					"exterior":"Minimal Wear",
+					"float":"0.09223327",
+					"pic":"assets/images/Rifle/m4a4/Desert Strike.png",
+					"alternatePic":"Desert-Strike",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/M4A4%20%7C%20Desert-Strike%20(Minimal%20Wear)",
+					"grade":"Covert Rifle",
+					"collectionLink":"Cases/Huntsman",
+					"collection":"The Huntsman Collection"
+				}
+		],
+		"scar20":[
+				{
+					"skin":"Contractor",
+					"exterior":"Field-Tested",
+					"float":"0.25723004",
+					"pic":"assets/images/Rifle/SCAR-20/Contractor.png",
+					"alternatePic":"Contractor",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/SCAR-20%20%7C%20Contractor%20(Field-Tested)",
+					"grade":"Consumer Grade Sniper Rifle",
+					"collectionLink":"other_collections/safehouse",
+					"collection":"The Safehouse Collection"
+				},
+				{
+					"skin":"Sand Mesh",
+					"exterior":"Minimal Wear",
+					"float":"0.13813840",
+					"pic":"assets/images/Rifle/SCAR-20/Sand Mesh.png",
+					"alternatePic":"Sand Mesh",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/SCAR-20%20%7C%20Sand%20Mesh%20(Minimal%20Wear)",
+					"grade":"Consumer Grade Sniper Rifle",
+					"collectionLink":"other_collections/dust2",
+					"collection":"The Dust 2 Collection"
+				},
+				{
+					"skin":"StatTrak Crimson Web",
+					"exterior":"Field-Tested",
+					"float":"0.18474475",
+					"pic":"assets/images/Rifle/SCAR-20/Crimson Web.png",
+					"alternatePic":"StatTrak Crimson Web",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SCAR-20%20%7C%20Crimson%20Web%20(Field-Tested)",
+					"grade":"StatTrak Mil-Spec Grade Sniper Rifle",
+					"collectionLink":"Cases/case2",
+					"collection":"The Arms Deal 2 Collection"
+				},
+				{
+					"skin":"Carbon Fiber",
+					"exterior":"Factory New",
+					"float":"0.03391011",
+					"pic":"assets/images/Rifle/SCAR-20/Carbon Fiber.png",
+					"alternatePic":"Carbon Fiber",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/SCAR-20%20%7C%20Carbon%20Fiber%20(Factory%20New)",
+					"grade":"Industrial Grade Sniper Rifle",
+					"collectionLink":"other_collections/train",
+					"collection":"The Train Collection"
+				},
+				{
+					"skin":"Splash Jam",
+					"exterior":"Field-Tested",
+					"float":"0.16340548",
+					"pic":"assets/images/Rifle/SCAR-20/Splash jam.png",
+					"alternatePic":"Splash Jam",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/SCAR-20%20%7C%20Splash%20Jam%20(Field-Tested)",
+					"grade":"Classified Sniper Rifle",
+					"collectionLink":"other_collections/militia",
+					"collection":"The Militia Collection"
+				},
+				{
+					"skin":"Storm",
+					"exterior":"Field-Tested",
+					"float":"0.16084555",
+					"pic":"assets/images/Rifle/SCAR-20/Storm.png",
+					"alternatePic":"Storm",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/SCAR-20%20%7C%20Storm%20(Field-Tested)",
+					"grade":"Consumer Grade Sniper Rifle",
+					"collectionLink":"other_collections/cobblestone",
+					"collection":"The Cobblestone Collection"
+				},
+				{
+					"skin":"StatTrak Grotto",
+					"exterior":"Factory New",
+					"float":"0.05534329",
+					"pic":"assets/images/Rifle/SCAR-20/Grotto.png",
+					"alternatePic":"StatTrak Grotto",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SCAR-20%20%7C%20Grotto%20(Factory%20New)",
+					"grade":"StatTrak Mil-Spec Grade Sniper Rifle",
+					"collectionLink":"Cases/Chroma",
+					"collection":"The Chroma Collection"
+				},
+				{
+					"skin":"Army Sheen",
+					"exterior":"Factory New",
+					"float":"0.06158056",
+					"pic":"assets/images/Rifle/SCAR-20/Army Sheen.png",
+					"alternatePic":"Army Sheen",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/SCAR-20%20%7C%20Army%20Sheen%20(Factory%20New)",
+					"grade":"Consumer Grade Sniper Rifle",
+					"collectionLink":"other_collections/chop_shop",
+					"collection":"The Chop Shop Collection"
+				}
+		],
+		"g3sg1":[
+				{
+					"skin":"Jungle Dashed",
+					"exterior":"Field-Tested",
+					"float":"0.27486613",
+					"pic":"assets/images/Rifle/G3SG1/Jungle Dashed.png",
+					"alternatePic":"Jungle Dashed",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/G3SG1%20%7C%20Jungle%20Dashed%20(Field-Tested)",
+					"grade":"Consumer Grade Sniper Rifle",
+					"collectionLink":"other_collections/lake",
+					"collection":"The Lake Collection"
+				},
+				{
+					"skin":"Souvenir Polar Camo",
+					"exterior":"Field-Tested",
+					"float":"0.19613673",
+					"pic":"assets/images/Rifle/G3SG1/Polar Camo.png",
+					"alternatePic":"Souvenir Polar Camo",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/Souvenir%20G3SG1%20%7C%20Polar%20Camo%20(Field-Tested)",
+					"grade":"Souvenir Consumer Grade Sniper Rifle",
+					"collectionLink":"other_collections/train",
+					"collection":"The Train Collection"
+				},
+				{
+					"skin":"Polar Camo",
+					"exterior":"Field-Tested",
+					"float":"0.05914961",
+					"pic":"assets/images/Rifle/G3SG1/Polar Camo.png",
+					"alternatePic":"Polar Camo",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/G3SG1%20%7C%20Polar%20Camo%20(Field-Tested)",
+					"grade":"Consumer Grade Sniper Rifle",
+					"collectionLink":"other_collections/train",
+					"collection":"The Train Collection"
+				},
+				{
+					"skin":"Desert Storm",
+					"exterior":"Well-Worn",
+					"float":"0.39105836",
+					"pic":"assets/images/Rifle/G3SG1/Desert Storm.png",
+					"alternatePic":"Desert Storm",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/G3SG1%20%7C%20Desert%20Storm%20(Well-Worn)",
+					"grade":"Consumer Grade Sniper Rifle",
+					"collectionLink":"other_collections/dust2",
+					"collection":"The Dust 2 Collection"
+				},
+				{
+					"skin":"VariCamo",
+					"exterior":"Factory New",
+					"float":"0.05914961",
+					"pic":"assets/images/Rifle/G3SG1/VariCamo.png",
+					"alternatePic":"VariCamo",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/G3SG1%20%7C%20VariCamo%20(Factory%20New)",
+					"grade":"Industrial Grade Sniper Rifle",
+					"collectionLink":"other_collections/safehouse",
+					"collection":"The Safehouse Collection"
+				},
+				{
+					"skin":"StatTrak Demeter",
+					"exterior":"Field-Tested",
+					"float":"0.01079660",
+					"pic":"assets/images/Rifle/G3SG1/Demeter.png",
+					"alternatePic":"StatTrak Demeter",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20G3SG1%20%7C%20Demeter%20(Field-Tested)",
+					"grade":"StatTrak Mil-Spec Grade Sniper Rifle",
+					"collectionLink":"Cases/Operation_Bravo",
+					"collection":"The Bravo Collection"
+				},
+				{
+					"skin":"Green Apple",
+					"exterior":"Factory New",
+					"float":"0.06795653",
+					"pic":"assets/images/Rifle/G3SG1/Green Apple.png",
+					"alternatePic":"Green Apple",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/G3SG1%20%7C%20Green%20Apple%20(Factory%20New)",
+					"grade":"Industrial Grade Sniper Rifle",
+					"collectionLink":"other_collections/bank",
+					"collection":"The Bank Collection"
+				},
+				{
+					"skin":"StatTrak Azure Zebra",
+					"exterior":"Factory New",
+					"float":"0.02970002",
+					"pic":"assets/images/Rifle/G3SG1/Azure Zebra.png",
+					"alternatePic":"StatTrak Azure Zebra",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20G3SG1%20%7C%20Azure%20Zebra%20(Factory%20New)",
+					"grade":"StatTrak Mil-Spec Grade Sniper Rifle",
+					"collectionLink":"Cases/eSports_2013_Winter",
+					"collection":"The eSports 2013 Winter Collection"
+				},
+				{
+					"skin":"StatTrak G3SG1 | Murky",
+					"exterior":"Factory New",
+					"float":"0.02683267",
+					"pic":"assets/images/Rifle/G3SG1/Murky.png",
+					"alternatePic":"StatTrak G3SG1 | Murky",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20G3SG1%20%7C%20Murky%20(Factory%20New)",
+					"grade":"StatTrak Mil-Spec Grade Sniper Rifle",
+					"collectionLink":"Cases/Operation_Vanguard",
+					"collection":"The Vanguard Collection"
+				},
+				{
+					"skin":"Orange Kimono",
+					"exterior":"Factory New",
+					"float":"0.01079660",
+					"pic":"assets/images/Rifle/G3SG1/Orange Kimono.png",
+					"alternatePic":"Orange Kimono",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/G3SG1%20%7C%20Orange%20Kimono%20(Factory%20New)",
+					"grade":"Consumer Grade Sniper Rifle",
+					"collectionLink":"other_collections/rising_sun",
+					"collection":"The Rising Sun Collection"
+				}
+		],
+		"awp":[
+				{
+					"skin":"Safari Mesh",
+					"exterior":"Field-Tested",
+					"float":"0.16869412",
+					"pic":"assets/images/Rifle/AWP/Safari Mesh.png",
+					"alternatePic":"Safari Mesh",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AWP%20%7C%20Safari%20Mesh%20(Field-Tested)",
+					"grade":"Industrial Grade Sniper Rifle",
+					"collectionLink":"other_collections/lake",
+					"collection":"The Lake Collection"
+				},
+				{
+					"skin":"Redline",
+					"exterior":"Minimal Wear",
+					"float":"0.14811979",
+					"pic":"assets/images/Rifle/AWP/Redline.png",
+					"alternatePic":"Redline",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AWP%20%7C%20Redline%20(Minimal%20Wear)",
+					"grade":"Classified Sniper Rifle",
+					"collectionLink":"Cases/Winter_Offensive",
+					"collection":"The Winter Offensive Collection"
+				},
+				{
+					"skin":"Corticera",
+					"exterior":"Minimal Wear",
+					"float":"0.07304529",
+					"pic":"assets/images/Rifle/AWP/Corticera.png",
+					"alternatePic":"Corticera",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AWP%20%7C%20Corticera%20(Minimal%20Wear)",
+					"grade":"Classified Sniper Rifle",
+					"collectionLink":"Cases/eSports_2014_Summer",
+					"collection":"The eSports 2014 Summer Collection"
+				},
+				{
+					"skin":"Pit Viper",
+					"exterior":"Field-Tested",
+					"float":"0.15963933",
+					"pic":"assets/images/Rifle/AWP/Pit Viper.png",
+					"alternatePic":"Pit Viper",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AWP%20%7C%20Pit%20Viper%20(Field-Tested)",
+					"grade":"Restricted Sniper Rifle",
+					"collectionLink":"other_collections/italy",
+					"collection":"The Italy Collection"
+				},
+				{
+					"skin":"StatTrak Worm God",
+					"exterior":"Factory New",
+					"float":"0.00180641",
+					"pic":"assets/images/Rifle/AWP/Worm God.png",
+					"alternatePic":"StatTrak Worm God",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AWP%20%7C%20Worm%20God%20(Factory%20New)",
+					"grade":"StatTrak Restricted Sniper Rifle",
+					"collectionLink":"Cases/Chroma2",
+					"collection":"The Chroma 2 Collection"
+				}
+		],
+		"aug":[
+				{
+					"skin":"Contractor",
+					"exterior":"Minimal Wear",
+					"float":"0.14798124",
+					"pic":"assets/images/Rifle/AUG/Contractor.png",
+					"alternatePic":"Contractor",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AUG%20%7C%20Contractor%20(Minimal%20Wear)",
+					"grade":"Consumer Grade Rifle",
+					"collectionLink":"other_collections/italy",
+					"collection":"The Italy Collection"
+				},
+				{
+					"skin":"Storm",
+					"exterior":"Field-Tested",
+					"float":"0.15988532",
+					"pic":"assets/images/Rifle/AUG/Storm.png",
+					"alternatePic":"Storm",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AUG%20%7C%20Storm%20(Field-Tested)",
+					"grade":"Consumer Grade Rifle",
+					"collectionLink":"other_collections/lake",
+					"collection":"The Lake Collection"
+				},
+				{
+					"skin":"Souvenir Colony",
+					"exterior":"Field-Tested",
+					"float":"0.36867121",
+					"pic":"assets/images/Rifle/AUG/Colony.png",
+					"alternatePic":"Souvenir Colony",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/Souvenir%20AUG%20%7C%20Colony%20(Field-Tested)",
+					"grade":"Souvenir Consumer Grade Rifle",
+					"collectionLink":"other_collections/mirage",
+					"collection":"The Mirage Collection"
+				},
+				{
+					"skin":"StatTrak Wings",
+					"exterior":"Factory New",
+					"float":"0.06240143",
+					"pic":"assets/images/Rifle/AUG/Wings.png",
+					"alternatePic":"StatTrak Wings",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AUG%20%7C%20Wings%20(Factory%20New)",
+					"grade":"StatTrak Mil-Spec Grade Rifle",
+					"collectionLink":"Cases/case1",
+					"collection":"The Arms Deal Collection"
+				},
+				{
+					"skin":"Radiation Hazard",
+					"exterior":"Minimal Wear",
+					"float":"0.07494809",
+					"pic":"assets/images/Rifle/AUG/Radiation Hazard.png",
+					"alternatePic":"Radiation Hazard",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AUG%20%7C%20Radiation%20Hazard%20(Minimal%20Wear)",
+					"grade":"Industrial Grade Rifle",
+					"collectionLink":"other_collections/cache",
+					"collection":"The Cache Collection"
+				},
+				{
+					"skin":"Condemned",
+					"exterior":"Minimal Wear",
+					"float":"0.12789814",
+					"pic":"assets/images/Rifle/AUG/Condemned.png",
+					"alternatePic":"Condemned",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AUG%20%7C%20Condemned%20(Minimal%20Wear)",
+					"grade":"Industrial Grade Rifle",
+					"collectionLink":"other_collections/safehouse",
+					"collection":"The Safehouse Collection"
+				},
+				{
+					"skin":"Chameleon",
+					"exterior":"Minimal Wear",
+					"float":"0.13835683",
+					"pic":"assets/images/Rifle/AUG/Chameleon.png",
+					"alternatePic":"Chameleon",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AUG%20%7C%20Chameleon%20(Minimal%20Wear)",
+					"grade":"Covert Rifle",
+					"collectionLink":"Cases/Operation_Phoenix",
+					"collection":"The Phoenix Collection"
+				},
+				{
+					"skin":"Bengal Tiger",
+					"exterior":"Minimal Wear",
+					"float":"0.14249533",
+					"pic":"assets/images/Rifle/AUG/Bengal Tiger.png",
+					"alternatePic":"Bengal Tiger",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/AUG%20%7C%20Bengal%20Tiger%20(Minimal%20Wear)",
+					"grade":"Classified Rifle",
+					"collectionLink":"Cases/eSports_2014_Summer",
+					"collection":"The eSports 2014 Summer Collection"
+				}
+		],
+		"sg553":[
+				{
+					"skin":"Waves Perforated",
+					"exterior":"Minimal Wear",
+					"float":"0.12970294",
+					"pic":"assets/images/Rifle/SG 553/Waves Perforated.png",
+					"alternatePic":"Waves Perforated",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/SG%20553%20%7C%20Waves%20Perforated%20(Minimal%20Wear)",
+					"grade":"Consumer Grade Rifle",
+					"collectionLink":"other_collections/lake",
+					"collection":"The Lake Collection"
+				},
+				{
+					"skin":"Ultraviolet",
+					"exterior":"Battle-Scarred",
+					"float":"0.78225154",
+					"pic":"assets/images/Rifle/SG 553/Ultraviolet.png",
+					"alternatePic":"Ultraviolet",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/SG%20553%20%7C%20Ultraviolet%20(Battle-Scarred)",
+					"grade":"Mil-Spec Grade Rifle",
+					"collectionLink":"Cases/case1",
+					"collection":"The Arms Deal Collection"
+				},
+				{
+					"skin":"StatTrak Wave Spray",
+					"exterior":"Field-Tested",
+					"float":"0.31295240",
+					"pic":"assets/images/Rifle/SG 553/Wave Spray.png",
+					"alternatePic":"StatTrak Wave Spray",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SG%20553%20%7C%20Wave%20Spray%20(Field-Tested)",
+					"grade":"StatTrak Mil-Spec Grade Rifle",
+					"collectionLink":"Cases/Operation_Bravo",
+					"collection":"The Bravo Collection"
+				},
+				{
+					"skin":"StatTrak Pulse",
+					"exterior":"Field-Tested",
+					"float":"0.19577265",
+					"pic":"assets/images/Rifle/SG 553/Pulse.png",
+					"alternatePic":"StatTrak Pulse",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SG%20553%20%7C%20Pulse%20(Field-Tested)",
+					"grade":"StatTrak Restricted Rifle",
+					"collectionLink":"Cases/Operation_Phoenix",
+					"collection":"The Phoenix Collection"
+				},
+				{
+					"skin":"Traveler",
+					"exterior":"Minimal Wear",
+					"float":"0.13444978",
+					"pic":"assets/images/Rifle/SG 553/Traveler.png",
+					"alternatePic":"Traveler",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/SG%20553%20%7C%20Traveler%20(Minimal%20Wear)",
+					"grade":"Industrial Grade Rifle",
+					"collectionLink":"other_collections/baggage",
+					"collection":"The Baggage Collection"
+				},
+				{
+					"skin":"Army Sheen",
+					"exterior":"Factory New",
+					"float":"0.03359546",
+					"pic":"assets/images/Rifle/SG 553/Army Sheen.png",
+					"alternatePic":"Army Sheen",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/SG%20553%20%7C%20Army%20Sheen%20(Factory%20New)",
+					"grade":"Consumer Grade Rifle",
+					"collectionLink":"other_collections/bank",
+					"collection":"The Bank Collection"
+				}
+		],
+		"famas":[
+				{
+					"skin":"Colony",
+					"exterior":"Minimal Wear",
+					"float":"0.12291360",
+					"pic":"assets/images/Rifle/FAMAS/Colony.png",
+					"alternatePic":"Colony",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/FAMAS%20%7C%20Colony%20(Minimal%20Wear)",
+					"grade":"Consumer Grade Rifle",
+					"collectionLink":"other_collections/italy",
+					"collection":"The Italy Collection"
+				},
+				{
+					"skin":"Afterimage",
+					"exterior":"Minimal Wear",
+					"float":"0.07396401",
+					"pic":"assets/images/Rifle/FAMAS/Afterimager.png",
+					"alternatePic":"Afterimage",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/FAMAS%20%7C%20Afterimage%20(Minimal%20Wear)",
+					"grade":"Classified Rifle",
+					"collectionLink":"Cases/eSports_2013_Winter",
+					"collection":"The eSports 2013 Winter Collection"
+				},
+				{
+					"skin":"StatTrak Pulse",
+					"exterior":"Minimal Wear",
+					"float":"0.10627415",
+					"pic":"assets/images/Rifle/FAMAS/Pulse.png",
+					"alternatePic":"StatTrak Pulse",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20FAMAS%20%7C%20Pulse%20(Minimal%20Wear)",
+					"grade":"StatTrak Restricted Rifle",
+					"collectionLink":"Cases/Winter_Offensive",
+					"collection":"The Winter Offensive Collection"
+				},
+				{
+					"skin":"Neural Net",
+					"exterior":"Field-Tested",
+					"float":"0.15989381",
+					"pic":"assets/images/Rifle/FAMAS/Neural Net.png",
+					"alternatePic":"Neural Net",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/FAMAS%20%7C%20Neural%20Net%20(Field-Tested)",
+					"grade":"Restricted Rifle",
+					"collectionLink":"Cases/Falchion",
+					"collection":"The Falchion Collection"
+				}
+		],
+		"galil":[
+				{
+					"skin":"Hunting Blind",
+					"exterior":"Minimal Wear",
+					"float":"0.07446650",
+					"pic":"assets/images/Rifle/galil ar/Hunting Blind.png",
+					"alternatePic":"Hunting Blind",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Hunting%20Blind%20(Minimal%20Wear)",
+					"grade":"Consumer Grade Rifle",
+					"collectionLink":"other_collections/mirage",
+					"collection":"The Mirage Collection"
+				},
+				{
+					"skin":"Orange DDPAT",
+					"exterior":"Minimal Wear",
+					"float":"0.12456876",
+					"pic":"assets/images/Rifle/galil ar/Orange DDPAT.png",
+					"alternatePic":"Orange DDPAT",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Orange%20DDPAT%20(Minimal%20Wear)",
+					"grade":"Restricted Rifle",
+					"collectionLink":"Cases/eSports_2013",
+					"collection":"The eSports 2013 Collection"
+				},
+				{
+					"skin":"StatTrak Blue Titanium",
+					"exterior":"Factory New",
+					"float":"0.01731152",
+					"pic":"assets/images/Rifle/galil ar/Blue Titanium.png",
+					"alternatePic":"StatTrak Blue Titanium",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Galil%20AR%20%7C%20Blue%20Titanium%20(Factory%20New)",
+					"grade":"StatTrak Mil-Spec Grade Rifle",
+					"collectionLink":"Cases/eSports_2013_Winter",
+					"collection":"The eSports 2013 Winter Collection"
+				},
+				{
+					"skin":"StatTrak Sandstorm",
+					"exterior":"Field-Tested",
+					"float":"0.19162880",
+					"pic":"assets/images/Rifle/galil ar/sandstorm.png",
+					"alternatePic":"StatTrak Sandstorm",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Galil%20AR%20%7C%20Sandstorm%20(Field-Tested)",
+					"grade":"StatTrak Mil-Spec Grade Rifle",
+					"collectionLink":"Cases/Winter_Offensive",
+					"collection":"The Winter Offensive Collection"
+				},
+				{
+					"skin":"StatTrak Shattered",
+					"exterior":"Field-Tested",
+					"float":"0.35311443",
+					"pic":"assets/images/Rifle/galil ar/Shattered.png",
+					"alternatePic":"StatTrak Shattered",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Galil%20AR%20%7C%20Shattered%20(Field-Tested)",
+					"grade":"StatTrak Mil-Spec Grade Rifle",
+					"collectionLink":"Cases/Operation_Bravo",
+					"collection":"The Bravo Collection"
+				},
+				{
+					"skin":"Souvenir Sage Spray",
+					"exterior":"Field-Tested",
+					"float":"0.24015777",
+					"pic":"assets/images/Rifle/galil ar/Sage Spray FT.png",
+					"alternatePic":"Souvenir Sage Spray",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/Souvenir%20Galil%20AR%20%7C%20Sage%20Spray%20(Field-Tested)",
+					"grade":"Souvenir Consumer Grade Rifle",
+					"collectionLink":"other_collections/lake",
+					"collection":"The Lake Collection"
+				},
+				{
+					"skin":"Sage Spray",
+					"exterior":"Minimal Wear",
+					"float":"0.12214409",
+					"pic":"assets/images/Rifle/galil ar/Sage Spray MW.png",
+					"alternatePic":"Sage Spray",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Sage%20Spray%20(Minimal%20Wear)",
+					"grade":"Consumer Grade Rifle",
+					"collectionLink":"other_collections/lake",
+					"collection":"The Lake Collection"
+				},
+				{
+					"skin":"Tuxedo",
+					"exterior":"Factory New",
+					"float":"0.00264053",
+					"pic":"assets/images/Rifle/galil ar/tuxedo.png",
+					"alternatePic":"Tuxedo",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Tuxedo%20(Factory%20New)",
+					"grade":"Mil-Spec Grade Rifle",
+					"collectionLink":"other_collections/bank",
+					"collection":"The Bank Collection"
+				},
+				{
+					"skin":"StatTrak Kami",
+					"exterior":"Factory New",
+					"float":"0.05821901",
+					"pic":"assets/images/Rifle/galil ar/kami.png",
+					"alternatePic":"StatTrak Kami",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Galil%20AR%20%7C%20Kami%20(Factory%20New)",
+					"grade":"StatTrak Mil-Spec Grade Rifle",
+					"collectionLink":"Cases/Huntsman",
+					"collection":"The Huntsman Collection"
+				},
+				{
+					"skin":"Cerberus",
+					"exterior":"Field-Tested",
+					"float":"0.35340124",
+					"pic":"assets/images/Rifle/galil ar/Cerberus.png",
+					"alternatePic":"Cerberus",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Cerberus%20(Field-Tested)",
+					"grade":"Restricted Rifle",
+					"collectionLink":"other_collections/cache",
+					"collection":"The Cache Collection"
+				},
+				{
+					"skin":"Chatterbox",
+					"exterior":"Battle-Scarred",
+					"float":"0.45700902",
+					"pic":"assets/images/Rifle/galil ar/chatterbox.png",
+					"alternatePic":"Chatterbox",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Chatterbox%20(Battle-Scarred)",
+					"grade":"Covert Rifle",
+					"collectionLink":"Cases/Chroma",
+					"collection":"The Chroma Collection"
+				}
+		],
+		"ssg08":[
+				{
+					"skin":"Blue Spruce",
+					"exterior":"Minimal Wear",
+					"float":"0.13967066",
+					"pic":"assets/images/Rifle/SSG 08/Blue Spruce.png",
+					"alternatePic":"Blue Spruce",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Blue%20Spruce%20(Minimal%20Wear)",
+					"grade":"Consumer Grade Sniper Rifle",
+					"collectionLink":"other_collections/safehouse",
+					"collection":"The Safehouse Collection"
+				},
+				{
+					"skin":"Lichen Dashed",
+					"exterior":"Field-Tested",
+					"float":"0.35457766",
+					"pic":"assets/images/Rifle/SSG 08/Lichen Dashed.png",
+					"alternatePic":"Lichen Dashed",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Lichen%20Dashed%20(Field-Tested)",
+					"grade":"Consumer Grade Sniper Rifle",
+					"collectionLink":"other_collections/aztec",
+					"collection":"The Aztec Collection"
+				},
+				{
+					"skin":"StatTrak Slashed",
+					"exterior":"Field-Tested",
+					"float":"0.22473627",
+					"pic":"assets/images/Rifle/SSG 08/Slashed.png",
+					"alternatePic":"StatTrak Slashed",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SSG%2008%20%7C%20Slashed%20(Field-Tested)",
+					"grade":"StatTrak Mil-Spec Grade Sniper Rifle",
+					"collectionLink":"Cases/Huntsman",
+					"collection":"The Huntsman Collection"
+				},
+				{
+					"skin":"Sand Dune",
+					"exterior":"Minimal Wear",
+					"float":"0.12693202",
+					"pic":"assets/images/Rifle/SSG 08/Sand Dune.png",
+					"alternatePic":"Sand Dune",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Sand%20Dune%20(Minimal%20Wear)",
+					"grade":"Consumer Grade Sniper Rifle",
+					"collectionLink":"other_collections/baggage",
+					"collection":"The Baggage Collection"
+				},
+				{
+					"skin":"StatTrak Abyss",
+					"exterior":"Minimal Wear",
+					"float":"0.11827072",
+					"pic":"assets/images/Rifle/SSG 08/Abyss.png",
+					"alternatePic":"StatTrak Abyss",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SSG%2008%20%7C%20Abyss%20(Minimal%20Wear)",
+					"grade":"StatTrak Mil-Spec Grade Sniper Rifle",
+					"collectionLink":"Cases/Operation_Breakout",
+					"collection":"The Breakout Collection"
+				},
+				{
+					"skin":"Acid Fade",
+					"exterior":"Factory New",
+					"float":"0.00266940",
+					"pic":"assets/images/Rifle/SSG 08/Acid Fade.png",
+					"alternatePic":"Acid Fade",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Acid%20Fade%20(Factory%20New)",
+					"grade":"Mil-Spec Grade Sniper Rifle",
+					"collectionLink":"other_collections/safehouse",
+					"collection":"The Safehouse Collection"
+				},
+				{
+					"skin":"StatTrak Dark Water",
+					"exterior":"Minimal Wear",
+					"float":"0.11781489",
+					"pic":"assets/images/Rifle/SSG 08/Dark Water.png",
+					"alternatePic":"StatTrak Dark Water",
+					"marketPrice":"http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SSG%2008%20%7C%20Dark%20Water%20(Minimal%20Wear)",
+					"grade":"StatTrak Mil-Spec Grade Sniper Rifle",
+					"collectionLink":"Cases/eSports_2014_Summer",
+					"collection":"The eSports 2014 Summer Collection"
+				}
+		]
+	}
+	]
+}
