@@ -1,33 +1,36 @@
 <?php
-header("Content-type: text/xml");
-function db_conn(){
-    $SERVER = 'localhost';
-    $user = 'root';
-    $pass = '';
-    $db = 'csgo';
-    try{
-        $conn = new PDO('mysql:host='.$SERVER.';dbname='.$db.';charset=utf8', $user, $pass);
-        $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-        $conn->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);
-    }catch (PDOException $e) {
-        echo $e->getMessage();
-    }
-    return $conn;
-}
-function pistol_skins($name)
-{
-    $conn = db_conn();
-    $selectQuery = "SELECT `p_skin`, `p_exterior`, `p_float`, `p_pic`, `p_alternatePic`, `p_marketPrice`, `p_grade`, `p_collectionLink`, `p_collection` FROM `pistol` WHERE `p_name` = :name";
-    try{
-        $stmt = $conn->prepare($selectQuery);
-        $stmt->execute(array(':name' => $name));
-    }catch(PDOException $e){
-        handle_sql_errors($selectQuery, $e->getMessage());
-    }
-    $row = $stmt->fetchAll(PDO::FETCH_ASSOC);
-    return $row;
-}
-echo "<?xml version='1.0' encoding='UTF-8'?>";
+	header("Content-type: text/xml");
+
+	function db_conn()
+	{
+		$SERVER = 'localhost';
+		$user   = 'root';
+		$pass   = '';
+		$db     = 'csgo';
+
+		try {
+			$conn = new PDO('mysql:host='.$SERVER.';dbname='.$db.';charset=utf8', $user, $pass);
+			$conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+			$conn->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);
+		} catch (PDOException $e) {
+			echo $e->getMessage();
+		}
+		return $conn;
+		}
+		function pistol_skins($name)
+		{
+		$conn = db_conn();
+		$selectQuery = "SELECT `p_skin`, `p_exterior`, `p_float`, `p_pic`, `p_alternatePic`, `p_marketPrice`, `p_grade`, `p_collectionLink`, `p_collection` FROM `pistol` WHERE `p_name` = :name";
+		try {
+			$stmt = $conn->prepare($selectQuery);
+			$stmt->execute(array(':name' => $name));
+		} catch (PDOException $e) {
+			handle_sql_errors($selectQuery, $e->getMessage());
+		}
+		$row = $stmt->fetchAll(PDO::FETCH_ASSOC);
+		return $row;
+	}
+	echo "<?xml version='1.0' encoding='UTF-8'?>";
 ?>
 <items>
 	<menu>
@@ -243,22 +246,22 @@ echo "<?xml version='1.0' encoding='UTF-8'?>";
 	<pistols>
 		<!--03.03.2016-->
 		<pistol name="usps">
-            <?php
-                $row = pistol_skins('usps');
-                foreach($row as $r){
-                    echo '<serial>';
-                        echo '<skin>'.$r["p_skin"].'</skin>';
-                        echo '<exterior>'.$r["p_exterior"].'</exterior>';
-                        echo '<float>'.$r["p_float"].'</float>';
-                        echo '<pic>'.$r["p_pic"].'</pic>';
-                        echo '<alternatePic>'.$r["p_alternatePic"].'</alternatePic>';
-                        echo '<marketPrice>'.$r['p_marketPrice'].'</marketPrice>';
-                        echo '<grade>'.$r['p_grade'].'</grade>';
-                        echo '<collectionLink>'.$r['p_collectionLink'].'</collectionLink>';
-                        echo '<collection>'.$r['p_collection'].'</collection>';
-                    echo '</serial>';
-                }
-            ?>
+			<?php
+					$row = pistol_skins('usps');
+					foreach($row as $r){
+					echo '<serial>';
+					echo '<skin>'.$r["p_skin"].'</skin>';
+					echo '<exterior>'.$r["p_exterior"].'</exterior>';
+					echo '<float>'.$r["p_float"].'</float>';
+					echo '<pic>'.$r["p_pic"].'</pic>';
+					echo '<alternatePic>'.$r["p_alternatePic"].'</alternatePic>';
+					echo '<marketPrice>'.$r['p_marketPrice'].'</marketPrice>';
+					echo '<grade>'.$r['p_grade'].'</grade>';
+					echo '<collectionLink>'.$r['p_collectionLink'].'</collectionLink>';
+					echo '<collection>'.$r['p_collection'].'</collection>';
+					echo '</serial>';
+					}
+					?>
 		</pistol>
 		<pistol name="p2000">
 			<serial no="1">
