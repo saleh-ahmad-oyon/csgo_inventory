@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Oyon
- * Date: 3/3/2016
- * Time: 2:07 AM
- */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Skin extends CI_Controller {
