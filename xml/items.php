@@ -20,7 +20,7 @@
 		function pistol_skins($name)
 		{
 		$conn = db_conn();
-		$selectQuery = "SELECT `p_skin`, `p_exterior`, `p_float`, `p_pic`, `p_alternatePic`, `p_marketPrice`, `p_grade`, `p_collectionLink`, `p_collection` FROM `pistol` WHERE `p_name` = :name";
+		$selectQuery = "SELECT `p_skin`, `p_exterior`, `p_float`, `p_pic`, `p_alternatePic`, `p_marketPrice`, `p_grade`, `p_collectionLink`, `p_collection` FROM `pistol` WHERE `p_name` = :name order by `p_skin`";
 		try {
 			$stmt = $conn->prepare($selectQuery);
 			$stmt->execute(array(':name' => $name));
