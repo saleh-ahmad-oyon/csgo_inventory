@@ -244,24 +244,22 @@
 		</knives>
 	</menu>
 	<pistols>
-		<!--03.03.2016-->
+		<!--01.10.2016-->
 		<pistol name="usps">
-			<?php
-					$row = pistol_skins('usps');
-					foreach($row as $r){
-					echo '<serial>';
-					echo '<skin>'.$r["p_skin"].'</skin>';
-					echo '<exterior>'.$r["p_exterior"].'</exterior>';
-					echo '<float>'.$r["p_float"].'</float>';
-					echo '<pic>'.$r["p_pic"].'</pic>';
-					echo '<alternatePic>'.$r["p_alternatePic"].'</alternatePic>';
-					echo '<marketPrice>'.$r['p_marketPrice'].'</marketPrice>';
-					echo '<grade>'.$r['p_grade'].'</grade>';
-					echo '<collectionLink>'.$r['p_collectionLink'].'</collectionLink>';
-					echo '<collection>'.$r['p_collection'].'</collection>';
-					echo '</serial>';
-					}
-					?>
+			<?php $row = pistol_skins('usps');
+            foreach($row as $i => $r):?>
+            <serial no="<?= $i ?>">
+                <skin><?= $r['p_skin']; ?></skin>
+                <exterior><?= $r['p_exterior'] ?></exterior>
+                <float><?= $r['p_float']; ?></float>
+                <pic><?= $r["p_pic"]; ?></pic>
+                <alternatePic><?= $r["p_alternatePic"]; ?></alternatePic>
+                <marketPrice><?= $r['p_marketPrice']; ?></marketPrice>
+                <grade><?= $r['p_grade'] ?></grade>
+                <collectionLink><?= $r['p_collectionLink']; ?></collectionLink>
+                <collection><?= $r['p_collection']; ?></collection>
+            </serial>
+            <?php endforeach; ?>
 		</pistol>
 		<pistol name="p2000">
 			<serial no="1">
