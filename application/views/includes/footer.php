@@ -40,6 +40,7 @@
 					<a href="http://steamcommunity.com/id/nissongo" target="_blank"><i class="fa fa-steam"></i></a>
 					<a href="http://steamcommunity.com/id/jawadnoor" target="_blank"><i class="fa fa-steam"></i></a>
 					<a href="http://steamcommunity.com/id/rayan281099" target="_blank"><i class="fa fa-steam"></i></a>
+					<a href="http://steamcommunity.com/id/12312321222222222222222" target="_blank"><i class="fa fa-steam"></i></a>
 				</div>
 			</div>
 		</div>
