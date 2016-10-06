@@ -908,17 +908,8 @@
 			</serial>
 		</pistol>
 		<pistol name="revolver">
-			<serial no="1">
-				<skin>StatTrak Crimson Web</skin>
-				<exterior>Field-Tested</exterior>
-				<float>0.18355796</float>
-				<pic>images/Pistol/Revolver/crimson_web.png</pic>
-				<alternatePic>StatTrak Crimson Web</alternatePic>
-				<marketPrice>http://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20R8%20Revolver%20%7C%20Crimson%20Web%20(Field-Tested)</marketPrice>
-				<grade>StatTrak Mil-Spec Grade Pistol</grade>
-				<collectionLink></collectionLink>
-				<collection>The Revolver Case Collection</collection>
-			</serial>
+			<?php $row = pistol_skins('revolver');
+			include 'content.php'; ?>
 		</pistol>
 	</pistols>
 </items>

@@ -339,6 +339,10 @@ a:link {
 	margin-bottom: 20px;
 }
 
+.padding-top-10{
+    padding-top: 10px;
+}
+
 @media screen and (max-width: 991px) {
 	/* Header */
 	.header-image a{
